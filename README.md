@@ -1,8 +1,3 @@
-Absolutely! Here's a detailed and **structured README.md** for your **Psoriasis and Cancer Risk: A Mendelian Randomization Analysis** project — written in the **same creative, beginner-friendly, and engaging style** you requested:
-
----
-
-````markdown
 # 🧬 Psoriasis and Cancer Risk: A Mendelian Randomization Analysis
 
 ## 🎯 Goal
