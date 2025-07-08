@@ -148,11 +148,3 @@ psoriasis-cancer-mr-pipeline/
 ## 🔬 Keywords
 
 Genomics • Mendelian Randomization • Python • GWAS • Causal Inference • Bioinformatics • Cancer Risk • Psoriasis
-
----
-
-```
-
-✅ You can now **copy and paste this directly into your `README.md`** file on GitHub.  
-Let me know if you'd like it packaged into a ZIP or if you'd like a matching `requirements.txt` file!
-```
